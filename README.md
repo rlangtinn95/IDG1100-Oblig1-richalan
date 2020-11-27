@@ -1,0 +1,1 @@
+# IDG1100-Oblig1-richalan
