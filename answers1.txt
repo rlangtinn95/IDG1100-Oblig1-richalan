@@ -1,0 +1,20 @@
+1. What components are part of the Von Neuman Architecture 
+
+Three distinct components: CPU, memory and I/O interfaces 
+
+2. What is user space?
+User space is all code that runs outside the operating system kernel 
+
+3. What is the shell?
+
+The shell is a program that takes commands from the keyboard and gives them to the operating system to perform
+
+4. Where is the shell located?
+
+The system default shell is defined in /etc/default/useradd file
+
+5. What is the main task of the shell?
+
+The shell is responsible for the execution of all programs that you request from your terminal 
+
+
